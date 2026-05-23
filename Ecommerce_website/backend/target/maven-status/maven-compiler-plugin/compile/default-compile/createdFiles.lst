@@ -1,0 +1,5 @@
+com\ecommerce\backend\BackendApplication.class
+com\ecommerce\backend\controller\ProductController.class
+com\ecommerce\backend\controller\TestController.class
+com\ecommerce\backend\config\SecurityConfig.class
+com\ecommerce\backend\model\Product.class
